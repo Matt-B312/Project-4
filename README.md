@@ -1,3 +1,3 @@
 # Project-4-server
 
-https://mattsmemoriesapp.herokuapp.com/posts
+https://mattsmemoriesapp.herokuapp.com
